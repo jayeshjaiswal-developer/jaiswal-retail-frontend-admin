@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img width="1920" height="1080" alt="admin-view-edit-product" src="https://github.com/user-attachments/assets/d6140c9a-09d9-4379-9606-1ec9c345bb75" />
+<img width="1920" height="1080" alt="admin-view-edit-category" src="https://github.com/user-attachments/assets/cbcf28a3-2ab6-499b-a993-ac7956898780" />
+<img width="1920" height="1080" alt="admin-update-order-status" src="https://github.com/user-attachments/assets/90458250-a664-4377-8856-5b6639708dc0" />
+<img width="1920" height="1080" alt="admin-transactions" src="https://github.com/user-attachments/assets/cf8a58f1-0712-4b35-ae6e-96ba5b87f83c" />
+<img width="1920" height="1080" alt="admin-products" src="https://github.com/user-attachments/assets/bbe5308b-41fa-43ed-b12e-ed1c6db35134" />
+<img width="1920" height="1080" alt="admin-orders" src="https://github.com/user-attachments/assets/e554bb30-02b2-41c7-a193-a5a0894db830" />
+<img width="1920" height="1080" alt="admin-login" src="https://github.com/user-attachments/assets/b9c88754-14ef-46a8-b005-7210b25f7485" />
+<img width="1920" height="1080" alt="admin-dashboard" src="https://github.com/user-attachments/assets/596b6d94-a63f-41d0-a2f2-ab95fb8ff3b6" />
+<img width="1920" height="1080" alt="admin-categories" src="https://github.com/user-attachments/assets/70b7ee3f-35a9-4c07-abd6-07f90f72d3c3" />
+<img width="1920" height="1080" alt="admin-add-products" src="https://github.com/user-attachments/assets/f7738d0f-9a7c-4bbc-a3fd-18b1fec4bb65" />
+<img width="1920" height="1080" alt="admin-add-categories" src="https://github.com/user-attachments/assets/f0b2a214-9d31-4b9e-8de0-7176d9d165b5" />
